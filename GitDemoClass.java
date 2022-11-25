@@ -9,4 +9,6 @@ public class GitDemoClass {
 	float c = 142;
 	
 	int d = 45;
+	
+	int g = 53;
 }
